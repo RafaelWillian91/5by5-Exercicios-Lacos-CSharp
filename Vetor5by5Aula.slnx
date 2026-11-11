@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="01-ExercicioTabuada/01-ExercicioTabuada.csproj" />
+  <Project Path="02 - ExercicioFibonacci/02 - ExercicioFibonacci.csproj" />
+  <Project Path="03 - ExercicioParEimpar/03 - ExercicioParEimpar.csproj" />
   <Project Path="repeticoes/repeticoes.csproj" />
   <Project Path="Vetor5by5Aula/Vetor5by5Aula.csproj" />
 </Solution>
